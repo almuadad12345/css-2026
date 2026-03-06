@@ -9,3 +9,11 @@ body{
     text-align: justify;
     margin: auto;
 }
+header{
+    background-color: rgb(124, 197, 124);
+    width: 100%;
+}
+.Container main img{
+    width: 50%;
+    margin: auto;
+}
